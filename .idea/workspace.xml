@@ -69,11 +69,11 @@
       <file leaf-file-name="StartActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jchoi/activitylifecycle/StartActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3628049">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.3109756">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding>
-                <element signature="e#924#1071#0" expanded="true" />
-                <element signature="e#1070#1071#0" expanded="true" />
+                <element signature="e#900#1047#0" expanded="true" />
+                <element signature="e#1046#1047#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1849,7 +1849,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446047732949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="i++">
+      <created>1446215841487</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1446215841487</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1899,7 +1905,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+    <MESSAGE value="i++" />
+    <option name="LAST_COMMIT_MESSAGE" value="i++" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1930,8 +1937,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
-            <element signature="e#924#1071#0" expanded="true" />
-            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#900#1047#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1979,8 +1986,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
-            <element signature="e#924#1071#0" expanded="true" />
-            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#900#1047#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2028,8 +2035,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
-            <element signature="e#924#1071#0" expanded="true" />
-            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#900#1047#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2145,11 +2152,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jchoi/activitylifecycle/StartActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3628049">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.3109756">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
-            <element signature="e#924#1071#0" expanded="true" />
-            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#900#1047#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
           </folding>
         </state>
       </provider>
