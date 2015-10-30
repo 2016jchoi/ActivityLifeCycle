@@ -17,7 +17,7 @@
         android:layout_width="wrap_content"
         android:text="BACK"
         android:id="@+id/back"
-        android:layout_marginTop="250dp"
+        android:layout_marginTop="275dp"
         />
     <TextView
         android:layout_width="wrap_content"
@@ -38,6 +38,22 @@
         android:text="SUBMIT"
         android:id="@+id/valueSubmit"
         android:layout_marginTop="100dp"
+        />
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="CONTACTS"
+        android:id="@+id/contact"
+        android:layout_marginTop="350dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:id="@+id/namer"
+        android:text = "The name clicked is: "
+        android:textSize="20dp"
         />
 
 </RelativeLayout>
