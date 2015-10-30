@@ -13,7 +13,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class StartActivity extends AppCompatActivity {
-
+//comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

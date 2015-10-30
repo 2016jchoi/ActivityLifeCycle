@@ -69,11 +69,11 @@
       <file leaf-file-name="StartActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jchoi/activitylifecycle/StartActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44054878">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.12957317">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
-                <element signature="e#882#1029#0" expanded="true" />
-                <element signature="e#1028#1029#0" expanded="true" />
+                <element signature="e#891#1038#0" expanded="true" />
+                <element signature="e#1037#1038#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1569,10 +1569,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/jchoi/activitylifecycle/temp.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/jchoi/activitylifecycle/CustomOnItemSelectedListener.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/jchoi/activitylifecycle/StartActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/jchoi/activitylifecycle/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_start.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/jchoi/activitylifecycle/StartActivity.java" />
       </list>
     </option>
   </component>
@@ -1930,8 +1930,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
-            <element signature="e#882#1029#0" expanded="true" />
-            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#891#1038#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1979,8 +1979,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
-            <element signature="e#882#1029#0" expanded="true" />
-            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#891#1038#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2028,8 +2028,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
-            <element signature="e#882#1029#0" expanded="true" />
-            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#891#1038#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2145,11 +2145,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jchoi/activitylifecycle/StartActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44054878">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.12957317">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
-            <element signature="e#882#1029#0" expanded="true" />
-            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#891#1038#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
           </folding>
         </state>
       </provider>
