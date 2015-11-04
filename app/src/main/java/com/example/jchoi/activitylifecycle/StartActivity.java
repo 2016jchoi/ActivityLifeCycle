@@ -66,6 +66,14 @@ public class StartActivity extends AppCompatActivity {
                 startActivityForResult(intent, PICK_CONTACT);
             }
         });
+        Button buttonl = (Button) findViewById(R.id.layout);
+        buttonl.setOnClickListener(new View.OnClickListener() {
+
+            public void onClick(View v) {
+                Intent l = getPackageManager().getLaunchIntentForPackage("com.example.jchoi.helloworld");
+                startActivity(l);
+            }
+        });
     }
     @Override
     public void onActivityResult(int reqCode, int resultCode, Intent data) {

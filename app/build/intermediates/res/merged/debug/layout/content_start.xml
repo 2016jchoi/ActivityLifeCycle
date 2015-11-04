@@ -55,6 +55,13 @@
         android:text = "The name clicked is: "
         android:textSize="20dp"
         />
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="LAYOUT"
+        android:id="@+id/layout"
+        android:layout_marginTop="400dp"
+        />
 
 </RelativeLayout>
 <!-- From: file:/C:/Users/2016jchoi/AndroidStudioProjects/ActivityLifeCycle/app/src/main/res/layout/content_start.xml -->
